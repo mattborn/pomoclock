@@ -1,1 +1,3 @@
 create a vanilla HTML project in /pomoclock with index.html, scripts.js, and styles.css that shows a timer that maps to clock time meaning from the top of the hour to 25 past it counts down from 25 mins and at 25 past it counts down from 5 mins and repeats for the next half hour so any time the page is loaded the countdown is happening and it appears in 3rem size, craft a brief README.md file that describes the project, keep the code as minimal as possible
+
+perfect! i want to add 2 more features: add a toggle to make a subtle chime or pulse sound at the end of each timer and also do a browser push notification for “time for a break" and "break is over" remembering to keep the code as minimalist as possible
