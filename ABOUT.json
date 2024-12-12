@@ -1,0 +1,9 @@
+{
+  "deps": [],
+  "description": "Deterministic pomodoro timer using clock time.",
+  "image": "",
+  "repo": "mattborn/",
+  "tags": ["Micro", "OSS", "Today"],
+  "title": "Pomoclock 🟡",
+  "urls": ["pomoclock.net"]
+}
